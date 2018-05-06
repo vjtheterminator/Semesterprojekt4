@@ -7,6 +7,8 @@ IGuiPage
 	y: 0
 	width: 800
 	height: 480
+<<<<<<< HEAD
+=======
 	IGuiTrendView
 	{
 		id: q469762050
@@ -483,4 +485,5 @@ IGuiPage
 		qm_FontFamilyName: "Tahoma"
 		qm_FontBold: true
 	}
+>>>>>>> d2e9c3dc844fc6316694b2122945f083926f4f61
 }
