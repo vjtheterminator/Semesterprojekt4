@@ -11,12 +11,12 @@ IGuiPage
 	{
 		id: q486539288
 		objId: 486539288
-		x: 38
-		y: 100
-		width: 134
-		height: 32
-		qm_FillRectWidth: 133
-		qm_FillRectHeight: 31
+		x: 50
+		y: 132
+		width: 151
+		height: 59
+		qm_FillRectWidth: 150
+		qm_FillRectHeight: 58
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
 		qm_BorderColor: "#ff424952"
@@ -44,12 +44,12 @@ IGuiPage
 	{
 		id: q486539289
 		objId: 486539289
-		x: 39
-		y: 146
-		width: 131
-		height: 32
-		qm_FillRectWidth: 130
-		qm_FillRectHeight: 31
+		x: 48
+		y: 221
+		width: 153
+		height: 59
+		qm_FillRectWidth: 152
+		qm_FillRectHeight: 58
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
 		qm_BorderColor: "#ff424952"
@@ -108,17 +108,17 @@ IGuiPage
 	{
 		id: q268435466
 		objId: 268435466
-		x: 63
-		y: 58
-		width: 88
-		height: 30
-		qm_FillRectWidth: 88
-		qm_FillRectHeight: 30
+		x: 48
+		y: 71
+		width: 98
+		height: 33
+		qm_FillRectWidth: 98
+		qm_FillRectHeight: 33
 		qm_FontFamilyName: "Tahoma"
 		qm_FontBold: true
 		qm_FontItalic: true
 		qm_FontUnderline: true
-		qm_FontSize: 21
+		qm_FontSize: 23
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 0
 		qm_BorderColor: "#ff424952"

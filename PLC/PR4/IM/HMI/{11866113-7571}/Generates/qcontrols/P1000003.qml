@@ -1,24 +1,22 @@
 ﻿import QtQuick 2.0
 IGuiPage
 {
-	id: q16777218
-	objId: 16777218
+	id: q16777219
+	objId: 16777219
 	x: 0
 	y: 0
 	width: 800
 	height: 480
-<<<<<<< HEAD
-=======
 	IGuiTrendView
 	{
-		id: q469762050
-		objId: 469762050
+		id: q469762049
+		objId: 469762049
 		x: 0
 		y: 0
 		width: 799
-		height: 389
+		height: 398
 		qm_FillRectWidth: 798
-		qm_FillRectHeight: 388
+		qm_FillRectHeight: 397
 		qm_BorderCornerRadius: 4
 		qm_BorderWidth: 1
 		qm_BorderColor: "#ff6b717b"
@@ -35,13 +33,13 @@ IGuiPage
 		qm_TrendXPos: 2
 		qm_TrendYPos: 2
 		qm_TrendWidth: 795
-		qm_TrendHeight: 270
+		qm_TrendHeight: 279
 		IGuiListCtrl
 		{
-			id: qu469762050
-			objectName: "qu469762050"
+			id: qu469762049
+			objectName: "qu469762049"
 			x: 6
-			y: 318
+			y: 327
 			width: 787
 			height: 65
 			totalColumnWidth: 787
@@ -107,7 +105,7 @@ IGuiPage
 			qm_linesPerRow: 1
 			IGuiListColumnView
 			{
-				id: qc11c000002
+				id: qc11c000001
 				colIndex: 0
 				x: 0
 				y: 0
@@ -119,7 +117,7 @@ IGuiPage
 			}
 			IGuiListColumnView
 			{
-				id: qc21c000002
+				id: qc21c000001
 				colIndex: 1
 				x: 319
 				y: 0
@@ -131,7 +129,7 @@ IGuiPage
 			}
 			IGuiListColumnView
 			{
-				id: qc31c000002
+				id: qc31c000001
 				colIndex: 2
 				x: 439
 				y: 0
@@ -143,7 +141,7 @@ IGuiPage
 			}
 			IGuiListColumnView
 			{
-				id: qc41c000002
+				id: qc41c000001
 				colIndex: 3
 				x: 601
 				y: 0
@@ -157,10 +155,10 @@ IGuiPage
 		}
 		IGuiGraphicSwitch
 		{
-			id: q352321538
-			objId: 352321538
+			id: q352321537
+			objId: 352321537
 			x: 7
-			y: 272
+			y: 281
 			width: 56
 			height: 40
 			qm_FillRectWidth: 55
@@ -185,14 +183,14 @@ IGuiPage
 			qm_FocusWidth: 2
 			qm_FocusColor: "#ff94b6e7"
 			qm_Streached :false
-			qm_GraphicImageID :61
+			qm_GraphicImageID :44
 		}
 		IGuiGraphicButton
 		{
-			id: q486539312
-			objId: 486539312
+			id: q486539304
+			objId: 486539304
 			x: 68
-			y: 272
+			y: 281
 			width: 56
 			height: 40
 			qm_FillRectWidth: 55
@@ -217,15 +215,15 @@ IGuiPage
 			qm_FocusWidth: 2
 			qm_FocusColor: "#ff94b6e7"
 			qm_Streached :false
-			qm_GraphicImageID :63
+			qm_GraphicImageID :46
 			qm_ContentVisibility : false
 		}
 		IGuiGraphicButton
 		{
-			id: q486539313
-			objId: 486539313
+			id: q486539305
+			objId: 486539305
 			x: 129
-			y: 272
+			y: 281
 			width: 56
 			height: 40
 			qm_FillRectWidth: 55
@@ -250,15 +248,15 @@ IGuiPage
 			qm_FocusWidth: 2
 			qm_FocusColor: "#ff94b6e7"
 			qm_Streached :false
-			qm_GraphicImageID :65
+			qm_GraphicImageID :48
 			qm_ContentVisibility : false
 		}
 		IGuiGraphicButton
 		{
-			id: q486539314
-			objId: 486539314
+			id: q486539306
+			objId: 486539306
 			x: 190
-			y: 272
+			y: 281
 			width: 56
 			height: 40
 			qm_FillRectWidth: 55
@@ -283,15 +281,15 @@ IGuiPage
 			qm_FocusWidth: 2
 			qm_FocusColor: "#ff94b6e7"
 			qm_Streached :false
-			qm_GraphicImageID :67
+			qm_GraphicImageID :50
 			qm_ContentVisibility : false
 		}
 		IGuiGraphicButton
 		{
-			id: q486539315
-			objId: 486539315
+			id: q486539307
+			objId: 486539307
 			x: 251
-			y: 272
+			y: 281
 			width: 56
 			height: 40
 			qm_FillRectWidth: 55
@@ -316,15 +314,15 @@ IGuiPage
 			qm_FocusWidth: 2
 			qm_FocusColor: "#ff94b6e7"
 			qm_Streached :false
-			qm_GraphicImageID :69
+			qm_GraphicImageID :52
 			qm_ContentVisibility : false
 		}
 		IGuiGraphicButton
 		{
-			id: q486539316
-			objId: 486539316
+			id: q486539308
+			objId: 486539308
 			x: 312
-			y: 272
+			y: 281
 			width: 56
 			height: 40
 			qm_FillRectWidth: 55
@@ -349,15 +347,15 @@ IGuiPage
 			qm_FocusWidth: 2
 			qm_FocusColor: "#ff94b6e7"
 			qm_Streached :false
-			qm_GraphicImageID :71
+			qm_GraphicImageID :54
 			qm_ContentVisibility : false
 		}
 		IGuiGraphicButton
 		{
-			id: q486539317
-			objId: 486539317
+			id: q486539309
+			objId: 486539309
 			x: 614
-			y: 272
+			y: 281
 			width: 56
 			height: 40
 			qm_FillRectWidth: 55
@@ -382,15 +380,15 @@ IGuiPage
 			qm_FocusWidth: 2
 			qm_FocusColor: "#ff94b6e7"
 			qm_Streached :false
-			qm_GraphicImageID :73
+			qm_GraphicImageID :56
 			qm_ContentVisibility : false
 		}
 		IGuiGraphicButton
 		{
-			id: q486539318
-			objId: 486539318
+			id: q486539310
+			objId: 486539310
 			x: 675
-			y: 272
+			y: 281
 			width: 56
 			height: 40
 			qm_FillRectWidth: 55
@@ -415,15 +413,15 @@ IGuiPage
 			qm_FocusWidth: 2
 			qm_FocusColor: "#ff94b6e7"
 			qm_Streached :false
-			qm_GraphicImageID :74
+			qm_GraphicImageID :57
 			qm_ContentVisibility : false
 		}
 		IGuiGraphicButton
 		{
-			id: q486539319
-			objId: 486539319
+			id: q486539311
+			objId: 486539311
 			x: 736
-			y: 272
+			y: 281
 			width: 56
 			height: 40
 			qm_FillRectWidth: 55
@@ -448,20 +446,20 @@ IGuiPage
 			qm_FocusWidth: 2
 			qm_FocusColor: "#ff94b6e7"
 			qm_Streached :false
-			qm_GraphicImageID :76
+			qm_GraphicImageID :59
 			qm_ContentVisibility : false
 		}
 	}
 	IGuiButton
 	{
-		id: q486539320
-		objId: 486539320
-		x: 22
+		id: q486539322
+		objId: 486539322
+		x: 20
 		y: 414
-		width: 114
-		height: 39
-		qm_FillRectWidth: 113
-		qm_FillRectHeight: 38
+		width: 126
+		height: 44
+		qm_FillRectWidth: 125
+		qm_FillRectHeight: 43
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
 		qm_BorderColor: "#ff424952"
@@ -485,5 +483,4 @@ IGuiPage
 		qm_FontFamilyName: "Tahoma"
 		qm_FontBold: true
 	}
->>>>>>> d2e9c3dc844fc6316694b2122945f083926f4f61
 }
